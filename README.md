@@ -1,3 +1,8 @@
+# Uemerson Pinheiro
+[![Linkedin Badge](https://img.shields.io/badge/-uemerson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uemerson-pinheiro-junior-953a38170/)](https://www.linkedin.com/in/dev-bruno-mariano/)
+[![Gmail Badge](https://img.shields.io/badge/-uemersonpinheirojunior@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:uemersonpinheirojunior@gmail.com)](mailto:uemersonpinheirojunior@gmail.com)
+
+
 ## Hi there <img src="https://raw.githubusercontent.com/uemerson/uemerson/master/gifs/wave.gif" width="30px"></h4>
 
 - 🔭 I’m currently working on Consultoria SNGPC
