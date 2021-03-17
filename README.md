@@ -1,5 +1,4 @@
-## Hi there 👋
-<h4> Hey there <img src="https://raw.githubusercontent.com/uemerson/uemerson/master/gifs/wave.gif" width="30px"></h4>
+## Hi there <img src="https://raw.githubusercontent.com/uemerson/uemerson/master/gifs/wave.gif" width="30px"></h4>
 
 - 🔭 I’m currently working on Consultoria SNGPC
 - 🌱 I’m currently learning Python, Clean Code, Software Architecture, Node.js, React.js
