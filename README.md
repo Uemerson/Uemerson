@@ -7,10 +7,11 @@
 
 - 👨🏻‍🎓 I'm currently doing a master's degree in computer science at São Paulo State University "Júlio de Mesquita Filho" (UNESP) in the area of computational intelligence research
 - 🔭 I’m currently working on Data H
-- 🌱 I’m currently learning Python, Clean Code, Software Architecture, Node.js, React.js
+- 🌱 I’m currently learning Machine learning, Deep learning, Clean Code, Software Architecture
 - 💬 Ask me about technology, machine learning, games, mangas/animes
-- :computer: Main stack: Node.js, React.js, React Native 
-- 🚀 Languages: Typescript, Java, Python, JavaScript
+- :computer: Main stack (current): Django, Vue.js, Ionic
+- 📖 Another stack (knowledge in): Node.js, React.js, React Native 
+- 🚀 Languages: Python ❤, JavaScript, Typescript, Java
 - ⚡ Fun fact: I once answered the world's oldest question with a single line of JavaScript
 
 ```javascript
