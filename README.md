@@ -24,3 +24,10 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 <br />
 
 Made with ❤, by Uemerson Pinheiro Junior
+
+<hr>
+
+<div align="left">
+  <a href="https://github.com/Uemerson">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Uemerson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
