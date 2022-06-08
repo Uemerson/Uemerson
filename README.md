@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-uemersonpinheirojunior@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:uemersonpinheirojunior@gmail.com)](mailto:uemersonpinheirojunior@gmail.com)
 
 
-## Hi there <img src="https://raw.githubusercontent.com/uemerson/uemerson/master/gifs/wave.gif" width="30px"></h4>
+## Hi there <img src="https://raw.githubusercontent.com/uemerson/uemerson/master/gifs/wave.gif" width="30px">
 
 - 👨🏻‍🎓 I'm currently doing a master's degree in computer science at São Paulo State University "Júlio de Mesquita Filho" (UNESP) in the area of computational intelligence research
 - 🔭 I’m currently working on DATA H: AI driving Human innovation
