@@ -6,11 +6,11 @@
 ## Hi there <img src="https://raw.githubusercontent.com/uemerson/uemerson/master/gifs/wave.gif" width="30px" height="30px">
 
 - 👨🏻‍🎓 I'm currently doing a master's degree in computer science at São Paulo State University "Júlio de Mesquita Filho" (UNESP) in the area of computational intelligence research
-- 🔭 I’m currently working on DATA H: AI driving Human innovation
+- 🔭 I’m currently working on (Meta)[https://www.meta.com.br/]
 - 🌱 I’m currently learning Machine learning, Deep learning, Clean Code, Software Architecture
 - 💬 Ask me about technology, machine learning, games, mangas/animes
-- :computer: Main stack (current): Django, Vue.js, Ionic
-- 📖 Another stack (knowledge in): Node.js, React.js, React Native 
+- :computer: Main stack (current): Python, Django and Flask.
+- 📖 Another stack (knowledge in): Node.js, React.js, React Native, Vue.js, Ionic
 - 🚀 Languages: Python ❤, JavaScript, Typescript, Java
 - ⚡ Fun fact: I once answered the world's oldest question with a single line of JavaScript
 
