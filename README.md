@@ -32,4 +32,4 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 <br />
 <br />
 
-Made with ❤, by <a href="https://github.com/Uemerson">Uemerson Pinheiro Junior</a>
+Made with 💙, by <a href="https://github.com/Uemerson">Uemerson Pinheiro Junior</a>
