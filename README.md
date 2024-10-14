@@ -6,7 +6,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/uemerson/uemerson/master/gifs/wave.gif" width="30px" height="30px">
 
 - 👨🏻‍🎓 Master's degree in Computer Science from São Paulo State University "Júlio de Mesquita Filho" (UNESP) in the area of computational intelligence research
-- 🔭 I'm currently working as a Machine Learning Engineer at [DataLife](https://www.datalife.ai/)
+- 🔭 I'm currently working as Data Engineer at [GRPCOM](https://www.grpcom.com.br/)
 - 🌱 I’m currently learning Deep learning, Machine learning, Clean Code and Software Architecture
 - 💬 Ask me about technology, artificial intelligence, games, mangas/animes
 - :computer: Main stack (current): Python 💙💛, FastAPI, Django and Flask.
