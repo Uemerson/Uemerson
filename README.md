@@ -6,7 +6,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/uemerson/uemerson/master/gifs/wave.gif" width="30px" height="30px">
 
 - 👨🏻‍🎓 I have a Master's degree in Computer Science from [São Paulo State University 'Júlio de Mesquita Filho' (UNESP)](https://www2.unesp.br/) in the area of computational intelligence research.
-- 🔭 I'm currently working as Data Engineer at [GRPCOM.](https://www.grpcom.com.br/)
+- 🔭 I'm currently working as AI Developer at [GRPCOM.](https://www.grpcom.com.br/)
 - 🌱 I’m currently learning Deep learning, Machine learning, Clean Code and Software Architecture.
 - 💬 Ask me about technology, artificial intelligence, games, mangas/animes.
 - ⚡ Fun fact: I once answered the world's oldest question with a single line of Python 💙💛:
