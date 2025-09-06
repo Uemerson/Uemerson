@@ -19,7 +19,7 @@
 
 ## Some of my skill set
 
-<table width="100%">
+<table style="width:100%">
 
 <tr>
   <td valign="top" width="33%">
