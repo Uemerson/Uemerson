@@ -17,8 +17,7 @@
 ['🐔', '🐣', '🐥', '🥚']
 ```
 
-## Some of my skill set
-# 🚀 Technologies
+## 🚀 Technologies
 
 | **Artificial Intelligence** | **Back-end** | **Others** |
 | :--: | :--: | :--: |
